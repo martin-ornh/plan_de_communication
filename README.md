@@ -60,6 +60,7 @@ python scripts/generate_changelog.py
 # sous Windows, remplacer python par py si la commande n'est pas reconnue
 ```
 
+
 Le fonctionnement est détaillé dans [docs/guide-contribution.md](docs/guide-contribution.md).
 
 ## Acteurs du projet
@@ -74,4 +75,4 @@ Le fonctionnement est détaillé dans [docs/guide-contribution.md](docs/guide-co
 
 ## Licence
 
-Documentation personnelle
+Documentation personnelle. Ne pas publier.
